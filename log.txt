@@ -1,0 +1,83 @@
+[2021-08-11 20:09:32.616]:  Input file found to be of type:csv
+[2021-08-11 20:09:32.675]:  Successfully read csv file
+[2021-08-11 20:09:32.691]:  Validating column: brand_name.
+[2021-08-11 20:09:32.692]:  (Error in row 2) field should not be empty
+[2021-08-11 20:09:32.694]:  (Error in row 7) field should not be empty
+[2021-08-11 20:09:32.695]:  (Error in row 10) field should not be empty
+[2021-08-11 20:09:32.697]:  (Error in row 14) field should not be empty
+[2021-08-11 20:09:32.698]:  (Error in row 17) field should not be empty
+[2021-08-11 20:09:32.701]:  (Error in row 25) field should not be empty
+[2021-08-11 20:09:33.685]:  Error Records successfully written to excel file 
+[2021-08-11 20:09:33.711]:  Filtered out the validated data 
+[2021-08-11 20:09:35.905]:  Data written to kafka topic. 
+[2021-08-12 08:56:42.356]:  Input file found to be of type:csv
+[2021-08-12 08:56:42.434]:  Successfully read csv file
+[2021-08-12 08:56:42.434]:  Validating column: brand_name.
+[2021-08-12 08:56:42.434]:  (Error in row 2) field should not be empty
+[2021-08-12 08:56:42.434]:  (Error in row 7) field should not be empty
+[2021-08-12 08:56:42.434]:  (Error in row 10) field should not be empty
+[2021-08-12 08:56:42.451]:  (Error in row 14) field should not be empty
+[2021-08-12 08:56:42.456]:  (Error in row 17) field should not be empty
+[2021-08-12 08:56:42.456]:  (Error in row 25) field should not be empty
+[2021-08-12 08:56:43.69]:  Error Records successfully written to excel file 
+[2021-08-12 08:56:43.706]:  Filtered out the validated data 
+[2021-08-12 09:01:54.667]:  Input file found to be of type:csv
+[2021-08-12 09:01:54.742]:  Successfully read csv file
+[2021-08-12 09:01:54.751]:  Validating column: brand_name.
+[2021-08-12 09:01:54.753]:  (Error in row 2) field should not be empty
+[2021-08-12 09:01:54.754]:  (Error in row 7) field should not be empty
+[2021-08-12 09:01:54.755]:  (Error in row 10) field should not be empty
+[2021-08-12 09:01:54.756]:  (Error in row 14) field should not be empty
+[2021-08-12 09:01:54.757]:  (Error in row 17) field should not be empty
+[2021-08-12 09:01:54.758]:  (Error in row 25) field should not be empty
+[2021-08-12 09:01:55.997]:  Error Records successfully written to excel file 
+[2021-08-12 09:01:56.029]:  Filtered out the validated data 
+[2021-08-12 09:01:59.194]:  Data written to kafka topic. 
+[2021-08-12 09:06:52.806]:  Input file found to be of type:csv
+[2021-08-12 09:06:52.872]:  Successfully read csv file
+[2021-08-12 09:06:52.895]:  Validating column: brand_name.
+[2021-08-12 09:06:52.906]:  (Error in row 2) field should not be empty
+[2021-08-12 09:06:52.907]:  (Error in row 7) field should not be empty
+[2021-08-12 09:06:52.908]:  (Error in row 10) field should not be empty
+[2021-08-12 09:06:52.909]:  (Error in row 14) field should not be empty
+[2021-08-12 09:06:52.91]:  (Error in row 17) field should not be empty
+[2021-08-12 09:06:52.918]:  (Error in row 25) field should not be empty
+[2021-08-12 09:06:54.531]:  Error Records successfully written to excel file 
+[2021-08-12 09:06:54.557]:  Filtered out the validated data 
+[2021-08-12 09:06:57.57]:  Data written to kafka topic. 
+[2021-08-12 09:09:14.08]:  Input file found to be of type:csv
+[2021-08-12 09:09:14.137]:  Successfully read csv file
+[2021-08-12 09:09:14.151]:  Validating column: brand_name.
+[2021-08-12 09:09:14.162]:  (Error in row 2) field should not be empty
+[2021-08-12 09:09:14.173]:  (Error in row 7) field should not be empty
+[2021-08-12 09:09:14.174]:  (Error in row 10) field should not be empty
+[2021-08-12 09:09:14.175]:  (Error in row 14) field should not be empty
+[2021-08-12 09:09:14.176]:  (Error in row 17) field should not be empty
+[2021-08-12 09:09:14.177]:  (Error in row 25) field should not be empty
+[2021-08-12 09:09:15.288]:  Error Records successfully written to excel file 
+[2021-08-12 09:09:15.307]:  Filtered out the validated data 
+[2021-08-12 09:09:17.524]:  Data written to kafka topic. 
+[2021-08-12 09:11:47.492]:  Input file found to be of type:csv
+[2021-08-12 09:11:47.547]:  Successfully read csv file
+[2021-08-12 09:11:47.563]:  Validating column: brand_name.
+[2021-08-12 09:11:47.573]:  (Error in row 2) field should not be empty
+[2021-08-12 09:11:47.583]:  (Error in row 7) field should not be empty
+[2021-08-12 09:11:47.584]:  (Error in row 10) field should not be empty
+[2021-08-12 09:11:47.585]:  (Error in row 14) field should not be empty
+[2021-08-12 09:11:47.586]:  (Error in row 17) field should not be empty
+[2021-08-12 09:11:47.587]:  (Error in row 25) field should not be empty
+[2021-08-12 09:11:48.467]:  Error Records successfully written to excel file 
+[2021-08-12 09:11:48.537]:  Filtered out the validated data 
+[2021-08-12 09:11:50.67]:  Data written to kafka topic. 
+[2021-08-12 09:15:26.831]:  Input file found to be of type:csv
+[2021-08-12 09:15:26.895]:  Successfully read csv file
+[2021-08-12 09:15:26.916]:  Validating column: brand_name.
+[2021-08-12 09:15:26.927]:  (Error in row 2) field should not be empty
+[2021-08-12 09:15:26.939]:  (Error in row 7) field should not be empty
+[2021-08-12 09:15:26.941]:  (Error in row 10) field should not be empty
+[2021-08-12 09:15:26.942]:  (Error in row 14) field should not be empty
+[2021-08-12 09:15:26.943]:  (Error in row 17) field should not be empty
+[2021-08-12 09:15:26.944]:  (Error in row 25) field should not be empty
+[2021-08-12 09:15:28.278]:  Error Records successfully written to excel file 
+[2021-08-12 09:15:28.299]:  Filtered out the validated data 
+[2021-08-12 09:15:31.949]:  Data written to kafka topic. 
